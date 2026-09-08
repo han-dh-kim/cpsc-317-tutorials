@@ -1,0 +1,11 @@
+220 localhost DICT server ready <demo@localhost>
+110 2 databases present - text follows
+wn WordNet
+gcide GNU Collaborative International Dictionary of English
+.
+250 ok
+111 2 strategies available - text follows
+exact Match headwords exactly
+prefix Match prefixes
+.
+250 ok
